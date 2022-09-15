@@ -1,2 +1,2 @@
-Hi# Arduino
+# Arduino
 Arduino programming projects 
